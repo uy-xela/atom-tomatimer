@@ -2,8 +2,16 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle tomatimer",
-        "command": "tomatimer:toggle"
+        "label": "Start tomatimer",
+        "command": "tomatimer:start"
+      }
+      {
+        "label": "Pause tomatimer",
+        "command": "tomatimer:pause"
+      },
+      {
+        "label": "Reset tomatimer",
+        "command": "tomatimer:reset"
       }
     ]
   },
@@ -15,8 +23,16 @@
           "label": "tomatimer",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "tomatimer:toggle"
+              "label": "Start",
+              "command": "tomatimer:start"
+            }
+            {
+              "label": "Pause",
+              "command": "tomatimer:pause"
+            },
+            {
+              "label": "Reset",
+              "command": "tomatimer:reset"
             }
           ]
         }

@@ -2,13 +2,13 @@
   "name": "tomatimer",
   "main": "./lib/tomatimer",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A straightforward pomodoro timer",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "tomatimer:toggle"
+    "atom-workspace": "tomatimer:start"
   },
-  "repository": "https://github.com/atom/tomatimer",
+  "repository": "https://github.com/Yu1989/atom-tomatimer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
