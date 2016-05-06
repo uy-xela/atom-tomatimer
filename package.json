@@ -1,18 +1,33 @@
 {
   "name": "tomatimer",
   "main": "./lib/tomatimer",
-  "version": "0.0.0",
-  "description": "A straightforward pomodoro timer",
+  "version": "0.1.0",
+  "description": "A loose and straightforward pomodoro timer",
   "keywords": [
+    "pomodoro",
+    "tomato timer",
+    "tomato",
+    "timer"
   ],
   "activationCommands": {
     "atom-workspace": "tomatimer:start"
+  },
+  "standard": {
+    "globals": [
+      "atom"
+    ]
   },
   "repository": "https://github.com/Yu1989/atom-tomatimer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
+  "dependencies": {},
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
   }
 }
