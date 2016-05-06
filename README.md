@@ -15,11 +15,11 @@ A loose and straightforward [pomodoro timer](https://en.wikipedia.org/wiki/Pomod
 ## Screenshots
 Timer on status bar
 
-![Timer](/screenshots/timer.png?raw=true "Optional Title")
+![Timer](https://github.com/Yu1989/atom-tomatimer/blob/master/screenshots/timer.png?raw=true)
 
 *Take a break* dialog
 
-![Dialog](/screenshots/dialog.png?raw=true "Optional Title")
+![Dialog](https://github.com/Yu1989/atom-tomatimer/blob/master/screenshots/dialog.png?raw=true)
 
 ## TODO
 - Tests
