@@ -1,42 +1,18 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Start tomatimer",
+  "menu": [{
+    "label": "Packages",
+    "submenu": [{
+      "label": "tomatimer",
+      "submenu": [{
+        "label": "Start",
         "command": "tomatimer:start"
-      }
-      {
-        "label": "Pause tomatimer",
-        "command": "tomatimer:pause"
-      },
-      {
-        "label": "Reset tomatimer",
+      }, {
+        "label": "Stop",
+        "command": "tomatimer:stop"
+      }, {
+        "label": "Reset",
         "command": "tomatimer:reset"
-      }
-    ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "tomatimer",
-          "submenu": [
-            {
-              "label": "Start",
-              "command": "tomatimer:start"
-            }
-            {
-              "label": "Pause",
-              "command": "tomatimer:pause"
-            },
-            {
-              "label": "Reset",
-              "command": "tomatimer:reset"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+      }]
+    }]
+  }]
 }
