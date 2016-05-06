@@ -19,3 +19,7 @@ Timer on status bar
 
 *Take a break* dialog
 ![Dialog](/Screenshots/dialog.png?raw=true "Optional Title")
+
+## TODO
+- Tests
+- Settings
