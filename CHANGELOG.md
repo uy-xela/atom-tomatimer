@@ -1,3 +1,6 @@
+## 0.3.0 / 2016-05-07
+- Added settings for session length and beeping
+
 ## 0.2.0 / 2016-05-07
 - New feature: pause/resume
 - New feature: record and show user's historical stats
