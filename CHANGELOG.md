@@ -1,3 +1,7 @@
+## 0.3.1 / 2016-05-07
+- Bugfix for stats
+- Visual enhancements for timer on status bar
+
 ## 0.3.0 / 2016-05-07
 - Added settings for session length and beeping
 
