@@ -23,6 +23,7 @@ Timer on status bar
 ![Dialog](https://github.com/Yu1989/atom-tomatimer/blob/master/screenshots/dialog.png?raw=true)
 
 Usage stats
+
 ![Stats](https://github.com/Yu1989/atom-tomatimer/blob/master/screenshots/stats.png?raw=true)
 
 ## Todo
