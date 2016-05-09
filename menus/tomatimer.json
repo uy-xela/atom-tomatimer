@@ -12,6 +12,9 @@
       }, {
         "label": "Reset",
         "command": "tomatimer:reset"
+      }, {
+        "label": "Pause Or Resume",
+        "command": "tomatimer:pause-or-resume"
       }]
     }]
   }]
