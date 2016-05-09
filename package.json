@@ -14,7 +14,8 @@
   },
   "standard": {
     "globals": [
-      "atom"
+      "atom",
+      "Audio"
     ]
   },
   "repository": "https://github.com/Yu1989/atom-tomatimer",
