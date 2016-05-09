@@ -1,3 +1,6 @@
+## 0.3.2 / 2016-05-09
+- Added fun titles for today's completions
+
 ## 0.3.1 / 2016-05-07
 - Bugfix for stats
 - Visual enhancements for timer on status bar
