@@ -8,10 +8,22 @@ A loose and straightforward [pomodoro timer](https://en.wikipedia.org/wiki/Pomod
 `$ apm install tomatimer`
 
 ## Usage
-- Run `Tomatimer: Start` in *Command Palette* to start, `Tomatimer: Stop` to fully stop, and `Tomatimer: Reset` to restart current session.
-- Once started, look for a timer on status bar. It counts 25 minutes before a dialog window freezes Atom and reminds you to take a break.
-- The timer consists of an hourglass icon and a time. Click icon to view your Tomatimer historical stats, and click time to pause/resume current session.
-- Whenever you feel ready (a 5-minute break is recommended), click *Back to work* to start a new session.
+- Commands in *Command Palette*:
+  - `Tomatimer: Start` Start Tomatimer.
+  - `Tomatimer: Stop` Stop Tomatimer.
+  - `Tomatimer: Reset` Restart current session.
+  - `Tomatimer: Pause Or Resume` Pause or resume current session.
+- Once started, look for a timer on status bar, that consists of an hourglass icon and a time.
+  - Click icon to view your Tomatimer historical stats.
+  - Click time to pause/resume current session.
+  - Timer counts 25 minutes before a dialog freezes Atom and reminds you to take a break.
+- Whenever you feel ready (a 5-minute break is recommended), click *Back to work* or press <kbd>Enter</kbd> to start a new session.
+
+## Keyboard Shortcuts
+- <kbd>ctrl-alt-t</kbd> `Tomatimer: Start`
+- <kbd>ctrl-alt-s</kbd> `Tomatimer: Stop`
+- <kbd>ctrl-alt-r</kbd> `Tomatimer: Reset`
+- <kbd>ctrl-alt-p</kbd> `Tomatimer: Pause Or Resume`
 
 ## Screenshots
 Timer on status bar
