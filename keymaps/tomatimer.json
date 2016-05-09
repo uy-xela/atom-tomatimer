@@ -2,6 +2,7 @@
   "atom-workspace": {
     "alt-ctrl-t": "tomatimer:start",
     "alt-ctrl-s": "tomatimer:stop",
-    "alt-ctrl-p": "tomatimer:pause-or-resume"
+    "alt-ctrl-p": "tomatimer:pause-or-resume",
+    "alt-ctrl-r": "tomatimer:reset"
   }
 }
