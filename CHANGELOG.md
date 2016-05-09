@@ -1,4 +1,4 @@
-## 0.3.2 / 2016-05-09
+## 0.4.0 / 2016-05-09
 - Added custom notification sound to replace system beep
 - Added fun titles for today's completions
 
