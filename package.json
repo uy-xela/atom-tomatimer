@@ -15,7 +15,12 @@
   "standard": {
     "globals": [
       "atom",
-      "Audio"
+      "Audio",
+      "describe",
+      "beforeEach",
+      "afterEach",
+      "it",
+      "expect"
     ]
   },
   "repository": "https://github.com/Yu1989/atom-tomatimer",

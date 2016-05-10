@@ -2,6 +2,7 @@
 A loose and straightforward [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) for Atom.
 
 [![apm version](https://img.shields.io/apm/v/tomatimer.svg)](https://atom.io/packages/tomatimer)
+[![build status](https://travis-ci.org/Yu1989/atom-tomatimer.svg?branch=master)](https://travis-ci.org/Yu1989/atom-tomatimer)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 ## Install
