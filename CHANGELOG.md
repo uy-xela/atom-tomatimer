@@ -1,3 +1,6 @@
+## 0.5.1 / 2016-05-09
+- Added some specs
+
 ## 0.5.0 / 2016-05-09
 - Added keyboard shortcuts
 
