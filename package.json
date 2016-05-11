@@ -20,7 +20,8 @@
       "beforeEach",
       "afterEach",
       "it",
-      "expect"
+      "expect",
+      "window"
     ]
   },
   "repository": "https://github.com/Yu1989/atom-tomatimer",
