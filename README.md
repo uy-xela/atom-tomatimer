@@ -14,11 +14,12 @@ A loose and straightforward [pomodoro timer](https://en.wikipedia.org/wiki/Pomod
   - `Tomatimer: Stop` Stop Tomatimer.
   - `Tomatimer: Reset` Restart current session.
   - `Tomatimer: Pause Or Resume` Pause or resume current session.
+    - Once you start typing in Atom, Tomatimer will resume automatically if it has been paused.
 - Once started, look for a timer on status bar, that consists of an hourglass icon and a time.
   - Click icon to view your Tomatimer historical stats.
   - Click time to pause/resume current session.
   - Timer counts 25 minutes before a dialog freezes Atom and reminds you to take a break.
-- Whenever you feel ready (a 5-minute break is recommended), click *Back to work* or press <kbd>Enter</kbd> to start a new session.
+- Whenever you feel ready (a 5-minute break is recommended), click *Back to work* to start a new session.
 
 ## Keyboard Shortcuts
 - <kbd>ctrl-alt-t</kbd> `Tomatimer: Start`
@@ -40,4 +41,4 @@ Usage stats
 ![Stats](https://github.com/Yu1989/atom-tomatimer/blob/master/screenshots/stats.png?raw=true)
 
 ## Todo
-- Tests
+- More tests
