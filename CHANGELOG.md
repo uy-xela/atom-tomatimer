@@ -1,3 +1,7 @@
+## 1.0.0 / 2016-05-11
+- New feature: monitor number of lines you coded in a session and report at the end of a session
+- New feature: auto-resume timer on detection of user typing
+
 ## 0.5.1 / 2016-05-09
 - Added some specs
 
