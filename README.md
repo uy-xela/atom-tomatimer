@@ -42,3 +42,4 @@ Usage stats
 
 ## Todo
 - More tests
+- Currently, statistics are stored separately for each project (Atom default behavior). Utilize local storage or write to file to make it truly global.
