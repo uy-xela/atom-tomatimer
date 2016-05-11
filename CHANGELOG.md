@@ -1,3 +1,6 @@
+## 1.1.0 / 2016-05-11
+- Fixed statistics being stored separately for each project (Atom default mechanism). Switched to HTML5 local storage for global storage.
+
 ## 1.0.0 / 2016-05-11
 - New feature: monitor number of lines you coded in a session and report at the end of a session
 - New feature: auto-resume timer on detection of user typing

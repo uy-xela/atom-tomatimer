@@ -48,30 +48,12 @@ describe('Stats recorder', function () {
     })
   })
 
-  describe('StatsRecorder::serialize', function () {
-    it('should serialize', function () {
-      expect(recorder.serialize()).toEqual({
-        deserializer: 'StatsRecorder',
-        stats: {
-          today: recorder.today,
-          history: recorder.history
-        }
+  describe('StatsRecorder::getStats', function () {
+    it('should return stats', function () {
+      expect(recorder.getStats()).toEqual({
+        today: recorder.today,
+        history: recorder.history
       })
-    })
-  })
-
-  describe('StatsRecorder.deserialize', function () {
-    it('should return an instance of StatsRecorder', function () {
-      const res = StatsRecorder.deserialize(recorder.serialize())
-      expect(res instanceof StatsRecorder).toEqual(true)
-    })
-
-    it('should restore stats', function () {
-      recorder.today.completions = 1
-      recorder.history.completions = 2
-      const res = StatsRecorder.deserialize(recorder.serialize())
-      expect(res.today.completions).toEqual(1)
-      expect(res.history.completions).toEqual(2)
     })
   })
 })
