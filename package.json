@@ -1,7 +1,7 @@
 {
   "name": "tomatimer",
   "main": "./lib/tomatimer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A loose and straightforward pomodoro timer.",
   "keywords": [
     "pomodoro",
