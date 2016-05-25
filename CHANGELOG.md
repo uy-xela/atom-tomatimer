@@ -1,3 +1,6 @@
+## 1.2.0 / 2016-05-25
+- Redid stats view to showcase in modal with more information instead of notification.
+
 ## 1.1.0 / 2016-05-11
 - Fixed statistics being stored separately for each project (Atom default mechanism). Switched to HTML5 local storage for global storage.
 
