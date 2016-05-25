@@ -1,9 +1,10 @@
 # Tomatimer
-A loose and straightforward [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) for [Atom](https://atom.io).
-
 [![apm version](https://img.shields.io/apm/v/tomatimer.svg?style=flat-square)](https://atom.io/packages/tomatimer)
 [![build status](https://img.shields.io/travis/Yu1989/atom-tomatimer/master.svg?style=flat-square)](https://travis-ci.org/Yu1989/atom-tomatimer)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
+
+A loose and straightforward [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) (also known as tomato timer) for [Atom](https://atom.io).
+
 
 ## Install
 ```
