@@ -1,4 +1,4 @@
-# Tomatimer
+# Tomatimer (not maintained any more)
 [![apm version](https://img.shields.io/apm/v/tomatimer.svg?style=flat-square)](https://atom.io/packages/tomatimer)
 [![build status](https://img.shields.io/travis/Yu1989/atom-tomatimer/master.svg?style=flat-square)](https://travis-ci.org/Yu1989/atom-tomatimer)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
